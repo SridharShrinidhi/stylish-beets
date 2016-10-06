@@ -1,0 +1,85 @@
+html {
+  background-color: #c9b5ab;
+  text-align: left;
+  line-height: 1.5;
+}
+
+a,
+a:link {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+header, h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 900;
+}
+
+main {
+  font-family: "PT Serif", serif;
+}
+
+dl dt:first-child {
+  font-size: 0.8rem;
+}
+
+body ol li {
+  list-style-type: lower-greek;
+  font-weight: normal;
+}
+
+body ul li {
+  list-style-type: circle;
+}
+
+.no-style li {
+  list-style-type: none;
+}
+
+aside blockquote {
+  font-size: 1.5rem;
+  color: #222;
+}
+
+blockquote cite {
+  font-size: 0.8rem;
+}
+
+aside p:first-child {
+  font-size: 1.125rem;
+}
+
+body h1, h2 {
+  color: #3f1622;
+}
+
+footer a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+dl {
+  line-height: 1.5;
+}
+
+figcaption {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav ol li a {
+  font-size: 1.125rem;
+}
+
+li a {
+  font-weight: 900;
+}
