@@ -35,6 +35,7 @@ body ol li {
 
 body ul li {
   list-style-type: circle;
+  font-size: 0.8rem;
 }
 
 .no-style li {
